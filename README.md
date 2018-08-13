@@ -13,7 +13,7 @@ Google Scheme
 ![Google Kotlin](https://github.com/kimkevin/intelliJ_color_scheme/blob/master/capture/capture_google_xml.png)
 
 
-Kevin Scheme
+KimKevin Scheme
 -----
 
 ### Java
