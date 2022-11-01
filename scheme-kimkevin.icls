@@ -1,10 +1,10 @@
 <scheme name="kimkevin" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-12-23T01:33:02</property>
+    <property name="created">2022-11-02T00:34:55</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">4.2.2.0</property>
-    <property name="modified">2021-12-23T01:33:15</property>
+    <property name="ideVersion">2021.3.1.17</property>
+    <property name="modified">2022-11-02T00:35:26</property>
     <property name="originalScheme">kimkevin</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -343,7 +343,7 @@
       <value>
         <option name="FOREGROUND" value="589df6" />
         <option name="EFFECT_COLOR" value="589df6" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -397,6 +397,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEPRECATED_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="DIFF_CONFLICT">
       <value>
         <option name="BACKGROUND" value="591010" />
@@ -417,7 +423,7 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="242931" />
+        <option name="BACKGROUND" value="3f5a7b" />
         <option name="ERROR_STRIPE_COLOR" value="304050" />
       </value>
     </option>
@@ -972,7 +978,7 @@
     </option>
     <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="66d9ee" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1026,7 +1032,7 @@
     </option>
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="66d9ee" />
+        <option name="FOREGROUND" value="f8f8f2" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1056,7 +1062,18 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="KOTLIN_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="fe9720" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_TRAIT">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="KOTLIN_WRAPPED_INTO_REF">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
       </value>
